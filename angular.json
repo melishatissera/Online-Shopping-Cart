@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "online-shopping"
+    }
+  },
+  "defaultProject": "online-shopping",
+  "cli": {
+    "analytics": false
+  }
 }
